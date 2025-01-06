@@ -15,7 +15,7 @@ https://youtu.be/YqSfq1LiGvw
 
 
 Link do Projeto no GitHub Pages</br>
-https://leandromendoncadev.github.io/projeto-covnversor-dolar-real/
+https://leandromendoncadev.github.io/conversor-dolar-real/
 
 
 ![image](https://github.com/user-attachments/assets/791d3159-827e-4c46-a6c7-eef43874713f)
