@@ -10,7 +10,7 @@
 <br>
 Conversor de Dólar para Real ou Real para Dolar
 
-Aprenda Javascript em 1 video (+ projeto prático) do Professor Bonieky Lacerda [(B7Web)](https://github.com/suporteb7web)
+Aprenda Javascript em 1 video (+ projeto prático) do Professor Bonieky Lacerda [(B7Web)](https://github.com/suporteb7web) <br>
 https://youtu.be/YqSfq1LiGvw
 
 
